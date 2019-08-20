@@ -1,0 +1,73 @@
+/*body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: auto;
+  max-width: 38rem;
+  padding: 2rem;
+}*/
+
+.header {
+  background-color: cornflowerblue;
+}
+
+.btnBack {
+  float: left;
+  background-color: #ffffff8a;
+  border-radius: 10px;
+}
+
+.btnBack:hover {
+  background-color: #ffffff5b;
+}
+
+.btnForward {
+  display: inline-block;
+  float: right;
+  background-color: #ffffff8a;
+  border-radius: 10px;
+}
+
+.btnForward:hover {
+  background-color: #ffffff5b;
+}
+
+.addressBar {
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 60px;
+}
+
+#editText {
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  border: none;
+  font-size: 5vh;
+}
+
+/*#view {
+  width: 100%;
+  height: 100%;
+}*/
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+webview {
+  display: block;   /* iframes are inline by default */
+  border: none;     /* Reset default border */
+  height: 80vh;     /* Viewport-relative units */
+  width: 95vw;
+}
+
+#goBtn {
+  border-radius: 15px;
+  background-color: #00ff0d;
+  color: black;
+  border: none;
+  font-size: 5vh;
+}
+
