@@ -23,7 +23,7 @@ i'm so sad to see a project like this die so fast.. :-(
 
 ok... enough talking Now let's see How to Run Zee Shell From Source
 
-First You'll need NodeJS,npm and electron-forge installed on your machine
+First You'll need NodeJS,npm,git and electron-forge installed on your machine
 then Type in a terminal window
 ```
 npm install electron-forge -g
