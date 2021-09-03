@@ -1,3 +1,8 @@
+#Warning
+Vee shell/Zee shell has moved to a new repo
+
+https://github.com/mohamedhany1024/Vee-Shell-Web
+
 # Zee-Shell-Source
 Official Source Code For Zee Shell. Zee Shell is a Touch Friendly shell That makes using Linux With Touch Devices Much easier.
 
